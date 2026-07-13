@@ -51,3 +51,17 @@ nav a:hover {
 ul {
     padding-left: 20px;
 }
+.resume-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 15px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.resume-button:hover {
+    opacity: 0.8;
+}
