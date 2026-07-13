@@ -112,3 +112,17 @@ nav a:hover {
     object-fit: cover;
     border-radius: 8px;
 }
+.project a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 8px 15px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.project a:hover {
+    opacity: 0.8;
+}
