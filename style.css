@@ -185,3 +185,18 @@ ul {
 .skills-category li {
     margin-bottom: 6px;
 }
+
+footer{
+
+margin-top:70px;
+
+padding-top:20px;
+
+border-top:1px solid #ccc;
+
+text-align:center;
+
+color:#666;
+
+font-size:.9rem;
+}
